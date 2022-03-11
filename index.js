@@ -10,3 +10,4 @@ var isValidNewBlock = (newBlock, previousBlock) => {
         return false;
     }
     return true;
+    return
